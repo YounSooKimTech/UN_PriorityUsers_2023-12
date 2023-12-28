@@ -1,0 +1,339 @@
+REGION,COUNTRY,ROLE,EMAIL_RC,NAME_RC,AGENCY_RC,EMAIL_UNINFO,NAME_UNINFO,AGENCY_UNINFO,Compare
+APA,Afghanistan,OMT CHAIR,hutchinson@unfpa.org,Mark Hutchinson,UNFPA,bwalya.chilufya@unwomen.org,Bwalya CHILUFYA,UN WOMEN,False
+APA,Afghanistan,OMT CHAIR,hutchinson@unfpa.org,Mark Hutchinson,UNFPA,dei@unhcr.org,Offei DEI,UNHCR,False
+AFR,Algeria,OMT CHAIR,dkarerwa@iom.int,Donald Karerwa,IOM,dkarerwa@iom.int,Donald KARERWA,IOM,True
+ECA,Albania,OMT CHAIR,mkumbaro@unicef.org,Mirela Kumbaro,UNICEF,berberi@unhcr.org,Teuta BERBERI,UNHCR,False
+ECA,Albania,OMT CHAIR,berberi@unhcr.org,Teuta Berberi,UNHCR,berberi@unhcr.org,Teuta BERBERI,UNHCR,True
+ECA,Albania,OMT CHAIR,irma.halimi@unwomen.org,Irma Halimi,UN WOMEN,berberi@unhcr.org,Teuta BERBERI,UNHCR,False
+LAC,Argentina,OMT CHAIR,beatrizsa@unops.org,Beatriz Satizabal,UNOPS,quintana@ilo.org,María Eugenia QUINTANA,ILO,False
+LAC,Argentina,OMT CHAIR,beatrizsa@unops.org,Beatriz Satizabal,UNOPS,beatrizsa@unops.org,Beatriz SATIZABAL,UNOPS,True
+ECA,Armenia,OMT CHAIR,artashes.darbinyan@undp.org,Artashes Darbinyan,UNDP,artashes.darbinyan@undp.org,Artashes DARBINYAN,UNDP,True
+ECA,Armenia,OMT CHAIR,artashes.darbinyan@undp.org,Artashes Darbinyan,UNDP,gavanesyan@unicef.org,Gayane AVANESYAN,UNICEF,False
+AFR,Angola,OMT CHAIR,apina@unicef.org, ,UNHCR,trani@unhcr.org,Vito  TRANI,UNHCR,False
+AFR,Angola,OMT CHAIR,apina@unicef.org, ,UNHCR,iyerovi@unicef.org,Ivan  YEROVI,UNICEF,False
+AFR,Angola,OMT CHAIR,klytvynenko@unicef.org,Kateryna Lytvynenko,UNICEF,trani@unhcr.org,Vito  TRANI,UNHCR,False
+AFR,Angola,OMT CHAIR,klytvynenko@unicef.org,Kateryna Lytvynenko,UNICEF,iyerovi@unicef.org,Ivan  YEROVI,UNICEF,False
+ECA,Azerbaijan,OMT CHAIR,subhan.ahmadov@undp.org,Subhan Ahmadov,UNDP,charu.bist@undp.org,Charu BIST,UNDP,False
+ECA,Azerbaijan,OMT CHAIR,subhan.ahmadov@undp.org,Subhan Ahmadov,UNDP,charu.bist@undp.org,Charu BIST,UNDP,False
+AS,Bahrain,OMT CHAIR,firas.gharaibeh@undp.org,Firas Gharaibeh,UNDP,firas.gharaibeh@undp.org,Firas GHARAIBEH,UNDP,True
+LAC,Barbados,OMT CHAIR,vielka.alvarez@wfp.org,Vielka Alvarez,WFP,stuart.sampson@fao.org,Stuart SAMPSON,FAO,False
+LAC,Barbados,OMT CHAIR,vielka.alvarez@wfp.org,Vielka Alvarez,WFP,vielka.alvarez@wfp.org,Vielka ALVAREZ,WFP,True
+ECA,Belarus,OMT CHAIR,armen.martirosyan@undp.org,Armen Martirosyan,UNDP,armen.martirosyan@undp.org,Armen MARTIROSYAN,UNDP,True
+ECA,Belarus,OMT CHAIR,tatiana.bykhankova@undp.org,Tatiana Bykhankova,UNDP,armen.martirosyan@undp.org,Armen MARTIROSYAN,UNDP,False
+APA,Bangladesh,OMT CHAIR,krishna.adhikari@undp.org,Krishna Adhikari,UNDP,krishna.adhikari@undp.org,Krishna Raj  ADHIKARI,UNDP,True
+APA,Bangladesh,OMT CHAIR,krishna.adhikari@undp.org,Krishna Adhikari,UNDP,halima.neyamat@un.org,Halima NEYAMAT,UNS – RCOs,False
+LAC,Belize,OMT CHAIR,Vacant, ,,ian.king@undp.org,Ian KING,UNDP,False
+LAC,Bolivia,OMT CHAIR,maria.legua@unwomen.org,Maria Legua,UN WOMEN,maria.legua@unwomen.org,Maria LEGUA,UN WOMEN,True
+ECA,Bosnia and Herzegovina,OMT CHAIR,svetlana.pavelic@undp.org,Svetlana Pavelic,UNDP,svetlana.pavelic@undp.org,Svetlana PAVELIC,UNDP,True
+AFR,Burkina Faso,OMT CHAIR,elvira.pruscini@wfp.org, ,UNICEF,slattouf@unicef.org,Sandra LATTOUF,UNICEF,False
+AFR,Burkina Faso,OMT CHAIR,elvira.pruscini@wfp.org, ,UNICEF,elvira.pruscini@wfp.org,Elvira  PRUSCINI,WFP,True
+AFR,Burkina Faso,OMT CHAIR,idriss.yaro@un.org,Idriss ghislain Yaro,UNS – RCOs,slattouf@unicef.org,Sandra LATTOUF,UNICEF,False
+AFR,Burkina Faso,OMT CHAIR,idriss.yaro@un.org,Idriss ghislain Yaro,UNS – RCOs,elvira.pruscini@wfp.org,Elvira  PRUSCINI,WFP,False
+AFR,Burundi,OMT CHAIR,spes.rusuku@unwomen.org,Spes Rusuku,UN WOMEN,eno@unhcr.org,Brigitte ENO,UNHCR,False
+AFR,Burundi,OMT CHAIR,spes.rusuku@unwomen.org,Spes Rusuku,UN WOMEN,claude.kakule@wfp.org,Claude KAKULE,WFP,False
+AFR,Burundi,OMT CHAIR,eno@unhcr.org,Brigitte Eno,UNHCR,eno@unhcr.org,Brigitte ENO,UNHCR,True
+AFR,Burundi,OMT CHAIR,eno@unhcr.org,Brigitte Eno,UNHCR,claude.kakule@wfp.org,Claude KAKULE,WFP,False
+AFR,Botswana,OMT CHAIR,malviyaa@unaids.org,Alankar Malviya,UNAIDS,malviyaa@unaids.org,Alankar MALVIYA,UNAIDS,True
+AFR,Botswana,OMT CHAIR,malviyaa@unaids.org,Alankar Malviya,UNAIDS,kelebogile.dikole@undp.org,Kelebogile DIKOLE,UNDP,False
+AFR,Botswana,OMT CHAIR,kelebogile.dikole@undp.org,Kelebogile Dikole,UNDP,malviyaa@unaids.org,Alankar MALVIYA,UNAIDS,False
+AFR,Botswana,OMT CHAIR,kelebogile.dikole@undp.org,Kelebogile Dikole,UNDP,kelebogile.dikole@undp.org,Kelebogile DIKOLE,UNDP,True
+APA,Bhutan,OMT CHAIR,choney.wangchuk@undp.org,Choney Wangchuk,UNDP,choney.wangchuk@undp.org,Choney WANGCHUK,UNDP,True
+APA,Bhutan,OMT CHAIR,choney.wangchuk@undp.org,Choney Wangchuk,UNDP,phurpa.tshering@undp.org,Phurpa TSHERING,UNDP,False
+APA,Bhutan,OMT CHAIR,fhoodbhoy@unicef.org,Fawzia Hoodbhoy,UNICEF,choney.wangchuk@undp.org,Choney WANGCHUK,UNDP,False
+APA,Bhutan,OMT CHAIR,fhoodbhoy@unicef.org,Fawzia Hoodbhoy,UNICEF,phurpa.tshering@undp.org,Phurpa TSHERING,UNDP,False
+LAC,Brazil,OMT CHAIR,vm.martin@unesco.org,Von michael Martin,UNESCO,lucianao@unops.org,Luciana LAS CASAS,UNOPS,False
+LAC,Brazil,OMT CHAIR,lucianao@unops.org,Luciana Oliveira,UNOPS,lucianao@unops.org,Luciana LAS CASAS,UNOPS,True
+AFR,Cabo Verde,OMT CHAIR,david.matern@cv.jo.un.org, ,,salette.bettencourt@cv.jo.un.org,Salette BETTENCOURT,UNDP,False
+AFR,Cabo Verde,OMT CHAIR,salette.bettencourt@cv.jo.un.org,Salette Bettencourt,UNDP,salette.bettencourt@cv.jo.un.org,Salette BETTENCOURT,UNDP,True
+APA,Cambodia,OMT CHAIR,wparks@unicef.org, ,,ddaby@unicef.org,DEVRAJ DABY,UNICEF,False
+APA,Cambodia,OMT CHAIR,rebekah.bell@fao.org, ,,ddaby@unicef.org,DEVRAJ DABY,UNICEF,False
+AFR,Cameroon,OMT CHAIR,lrakotomalala@unfpa.org,Laurence Rakotomalala,UNFPA,gisele.ntunga@undp.org,Gisele NTUNGA,UNDP,False
+AFR,Cameroon,OMT CHAIR,lrakotomalala@unfpa.org,Laurence Rakotomalala,UNFPA,lrakotomalala@unfpa.org,Laurence RAKOTOMALALA,UNFPA,True
+AFR,Cameroon,OMT CHAIR,gisele.ntunga@undp.org,Gisele Ntunga,UNDP,gisele.ntunga@undp.org,Gisele NTUNGA,UNDP,True
+AFR,Cameroon,OMT CHAIR,gisele.ntunga@undp.org,Gisele Ntunga,UNDP,lrakotomalala@unfpa.org,Laurence RAKOTOMALALA,UNFPA,False
+AFR,Central African Republic,OMT CHAIR,boureima.younoussa@undp.org,Boureima  Younoussa,UNDP,rushatsi@unhcr.org,Jean Bosco RUSHATSI,UNHCR,False
+AFR,Central African Republic,OMT CHAIR,boureima.younoussa@undp.org,Boureima  Younoussa,UNDP,peggy.pedre@wfp.org,Peggy PEDRE,WFP,False
+AFR,Central African Republic,OMT CHAIR,peggy.pedre@wfp.org,Peggy Pedre,WFP,rushatsi@unhcr.org,Jean Bosco RUSHATSI,UNHCR,False
+AFR,Central African Republic,OMT CHAIR,peggy.pedre@wfp.org,Peggy Pedre,WFP,peggy.pedre@wfp.org,Peggy PEDRE,WFP,True
+AFR,Chad,OMT CHAIR,locastro@unhcr.org,Laura Lo castro,UNHCR,locastro@unhcr.org,Laura LO CASTRO,UNHCR,True
+LAC,Chile,OMT CHAIR,d.garcia@unesco.org,Danela Garcia dorticos,UNESCO,gisella.yaksetig@un.org,Gisella YAKSETIG,UNS – ECLAC,False
+LAC,Chile,OMT CHAIR,d.garcia@unesco.org,Danela Garcia dorticos,UNESCO,gisella.yaksetig@un.org,Gisella YAKSETIG,UNS – ECLAC,False
+APA,China,OMT CHAIR,nradonjic@unicef.org,Nenad Radonjic,UNICEF,nradonjic@unicef.org,Nenad RADONJIC,UNICEF,True
+AFR,Comoros,OMT CHAIR,bpinah@unicef.org,Banga Pinah,UNICEF,bpinah@unicef.org,Banga PINAH,UNICEF,True
+AFR,Comoros,OMT CHAIR,abdou.ali.chahidi@undp.org,Abdou Ali chahidi,UNDP,bpinah@unicef.org,Banga PINAH,UNICEF,False
+LAC,Colombia,OMT CHAIR,vitoria.ginja@wfp.org,Vitoria Ginja,WFP,alejandro.pacheco@undp.org,Alejandro PACHECO,UNDP,False
+LAC,Colombia,OMT CHAIR,vitoria.ginja@wfp.org,Vitoria Ginja,WFP,marcela.rodriguez@undp.org,Marcela RODRIGUEZ,UNDP,False
+LAC,Colombia,OMT CHAIR,alejandro.pacheco@undp.org,Alejandro Pacheco,UNDP,alejandro.pacheco@undp.org,Alejandro PACHECO,UNDP,True
+LAC,Colombia,OMT CHAIR,alejandro.pacheco@undp.org,Alejandro Pacheco,UNDP,marcela.rodriguez@undp.org,Marcela RODRIGUEZ,UNDP,False
+AFR,Congo,OMT CHAIR,normand.alouna@undp.org,Mbon alouna Normand,UNDP,cumutoni@unicef.org,Chantal  UMUTONI,UNICEF,False
+AFR,Congo,OMT CHAIR,normand.alouna@undp.org,Mbon alouna Normand,UNDP,uha@unicef.org,Un Gyong HA,UNICEF,False
+AFR,Congo,OMT CHAIR,cumutoni@unicef.org, ,UNICEF,cumutoni@unicef.org,Chantal  UMUTONI,UNICEF,True
+AFR,Congo,OMT CHAIR,cumutoni@unicef.org, ,UNICEF,uha@unicef.org,Un Gyong HA,UNICEF,False
+LAC,Costa Rica,OMT CHAIR,teresita.nunezalvarez@un.org,Teresita Nunez,UNS – RCOs,teresita.nunezalvarez@un.org,Teresita NUNEZ,UN,True
+LAC,Costa Rica,OMT CHAIR,teresita.nunezalvarez@un.org,Teresita Nunez,UNS – RCOs,ppsouza@unicef.org,Patricia PORTELA DE SOUZA,UNICEF,False
+LAC,Costa Rica,OMT CHAIR,ppsouza@unicef.org,Patricia Portela de souza,UNICEF,teresita.nunezalvarez@un.org,Teresita NUNEZ,UN,False
+LAC,Costa Rica,OMT CHAIR,ppsouza@unicef.org,Patricia Portela de souza,UNICEF,ppsouza@unicef.org,Patricia PORTELA DE SOUZA,UNICEF,True
+AFR,Cote d'Ivoire,OMT CHAIR,jean-michel.loukou@wfp.org,Jean-michel Loukou,WFP,olivia.hantz@wfp.org,Olivia HANTZ,WFP,False
+AFR,Cote d'Ivoire,OMT CHAIR,olivia.hantz@wfp.org,Olivia Hantz,WFP,olivia.hantz@wfp.org,Olivia HANTZ,WFP,True
+AFR,Cote d'Ivoire,OMT CHAIR,andao@unicef.org,Alioune  Ndao,UNICEF,olivia.hantz@wfp.org,Olivia HANTZ,WFP,False
+LAC,Cuba,OMT CHAIR,creigcoyula@unicef.org,Claudia Reig coyula,UNICEF,h.rodriguez-antunez@unesco.org,Hector Ricardo RODRIGUEZ ANTUNEZ,UNESCO,False
+LAC,Cuba,OMT CHAIR,h.rodriguez-antunez@unesco.org,Hector ricardo Rodriguez antunez,UNESCO,h.rodriguez-antunez@unesco.org,Hector Ricardo RODRIGUEZ ANTUNEZ,UNESCO,True
+AFR,Democratic Republic of the Congo,OMT CHAIR,aida.cisse.diagne@undp.org,Aida Cisse diagne,UNDP,psabatine@unicef.org,Paul Andrew SABATINE,UNICEF,False
+AFR,Democratic Republic of the Congo,OMT CHAIR,aida.cisse.diagne@undp.org,Aida Cisse diagne,UNDP,diaw2@un.org,Aboubakri DIAW,UNS – RCOs,False
+AFR,Democratic Republic of the Congo,OMT CHAIR,psabatine@unicef.org,Paul Sabatine,UNICEF,psabatine@unicef.org,Paul Andrew SABATINE,UNICEF,True
+AFR,Democratic Republic of the Congo,OMT CHAIR,psabatine@unicef.org,Paul Sabatine,UNICEF,diaw2@un.org,Aboubakri DIAW,UNS – RCOs,False
+AFR,Djibouti,OMT CHAIR,emma.ngouan-anoh@undp.org,Emma Ngouan-anoh,UNDP,tpacifico@iom.int,Tanja PACIFICO,IOM,False
+AFR,Djibouti,OMT CHAIR,emma.ngouan-anoh@undp.org,Emma Ngouan-anoh,UNDP,emma.ngouan-anoh@undp.org,Emma NGOUAN-ANOH,UNDP,True
+AFR,Djibouti,OMT CHAIR,tpacifico@iom.int,Tanja Pacifico,IOM,tpacifico@iom.int,Tanja PACIFICO,IOM,True
+AFR,Djibouti,OMT CHAIR,tpacifico@iom.int,Tanja Pacifico,IOM,emma.ngouan-anoh@undp.org,Emma NGOUAN-ANOH,UNDP,False
+LAC,Dominican Republic,OMT CHAIR,nerynes.reyes@wfp.org,Nerynes Reyes,WFP,xavier.hernandez@undp.org,Xavier HERNANDEZ FERRE,UNDP,False
+LAC,Dominican Republic,OMT CHAIR,xavier.hernandez@undp.org,Xavier Hernandez ferre,UNDP,xavier.hernandez@undp.org,Xavier HERNANDEZ FERRE,UNDP,True
+LAC,Dominican Republic,OMT CHAIR,maria.luisa.duran@undp.org,Maria luisa Duran,UNDP,xavier.hernandez@undp.org,Xavier HERNANDEZ FERRE,UNDP,False
+LAC,Ecuador,OMT CHAIR,wsanchez@iom.int,Wendy Sanchez,IOM,wsanchez@iom.int,WENDY SANCHEZ,IOM,True
+AFR,Equatorial Guinea,OMT CHAIR,betty.wabunoha@undp.org,Betty  Wabunoha ,UNDP,francisco.roquette@undp.org,Francisco ROQUETTE,UNDP,False
+AFR,Equatorial Guinea,OMT CHAIR,betty.wabunoha@undp.org,Betty  Wabunoha ,UNDP,fbegin@unicef.org,France  BEGIN,UNICEF,False
+AFR,Equatorial Guinea,OMT CHAIR,jose.wabo@undp.org,Jose Wabo,UNDP,francisco.roquette@undp.org,Francisco ROQUETTE,UNDP,False
+AFR,Equatorial Guinea,OMT CHAIR,jose.wabo@undp.org,Jose Wabo,UNDP,fbegin@unicef.org,France  BEGIN,UNICEF,False
+AFR,Egypt,OMT CHAIR,nevein.aboutaleb@wfp.org,Nevein Abou taleb,WFP,moayad.wahbeh@wfp.org,Moayad WAHBEH,WFP,False
+AFR,Egypt,OMT CHAIR,nevein.aboutaleb@wfp.org,Nevein Abou taleb,WFP,nevein.aboutaleb@wfp.org,Nevein ABOU TALEB,WFP,True
+AFR,Egypt,OMT CHAIR,moayad.wahbeh@wfp.org,Moayad Wahbeh,WFP,moayad.wahbeh@wfp.org,Moayad WAHBEH,WFP,True
+AFR,Egypt,OMT CHAIR,moayad.wahbeh@wfp.org,Moayad Wahbeh,WFP,nevein.aboutaleb@wfp.org,Nevein ABOU TALEB,WFP,False
+LAC,El Salvador,OMT CHAIR,britez@unhcr.org,Nelida Britez,UNHCR,britez@unhcr.org,Nelida BRITEZ,UNHCR,True
+AFR,Eritrea,OMT CHAIR,hbelkadhy@unicef.org,Hassen Belkadhy,UNICEF,pankani@unicef.org,Philippe ANKANI,UNICEF,False
+AFR,Eritrea,OMT CHAIR,htesfamariam@unfpa.org,Hiwet Tesfamariam,UNFPA,pankani@unicef.org,Philippe ANKANI,UNICEF,False
+AFR,Eswatini,OMT CHAIR,deepak.shah@wfp.org,Deepak Shah,WFP,tafadzwa.muvingi@undp.org,Tafadzwa MUVINGI,UNDP,False
+AFR,Eswatini,OMT CHAIR,deepak.shah@wfp.org,Deepak Shah,WFP,deepak.shah@wfp.org,Deepak SHAH,WFP,True
+AFR,Ethiopia,OMT CHAIR,dang.thi.hien@undp.org,Hien Dang,UNDP,ogboro.uneca@un.org,George OGBORO,UN,False
+AFR,Ethiopia,OMT CHAIR,dang.thi.hien@undp.org,Hien Dang,UNDP,dang.thi.hien@undp.org,Hien  DANG,UNDP,True
+APA,Fiji,OMT CHAIR,meng.cai@one.un.org,Meng Cai,UNS – RCOs,skantha@iom.int,Solomon KANTHA,IOM,False
+APA,Fiji,OMT CHAIR,meng.cai@one.un.org,Meng Cai,UNS – RCOs,meng.cai@one.un.org,Meng CAI,UNS – RCOs,True
+AFR,Gabon,OMT CHAIR,mirana.rahiravola@undp.org,Mirana Rahiravola,UNDP,mirana.rahiravola@undp.org,Mirana RAHIRAVOLA,UNDP,True
+AFR,Gabon,OMT CHAIR,mirana.rahiravola@undp.org,Mirana Rahiravola,UNDP,adacruz@unicef.org,Gaetan Hermann Alain DA CRUZ,UNICEF,False
+AFR,Gabon,OMT CHAIR,adacruz@unicef.org,Gaetan hermann alain Da cruz,UNICEF,mirana.rahiravola@undp.org,Mirana RAHIRAVOLA,UNDP,False
+AFR,Gabon,OMT CHAIR,adacruz@unicef.org,Gaetan hermann alain Da cruz,UNICEF,adacruz@unicef.org,Gaetan Hermann Alain DA CRUZ,UNICEF,True
+AFR,Gambia,OMT CHAIR,nuru.jobe@fao.org,Nuru Jobe,FAO,nuru.jobe@fao.org,Nuru  JOBE,FAO,True
+AFR,Gambia,OMT CHAIR,nuru.jobe@fao.org,Nuru Jobe,FAO,sirran@unaids.org,Sirra NDOW,UNAIDS,False
+AFR,Gambia,OMT CHAIR,ndows@unaids.org,Sirra Ndow,UNAIDS,nuru.jobe@fao.org,Nuru  JOBE,FAO,False
+AFR,Gambia,OMT CHAIR,ndows@unaids.org,Sirra Ndow,UNAIDS,sirran@unaids.org,Sirra NDOW,UNAIDS,False
+ECA,Georgia,OMT CHAIR,ani.shamatava@fao.org,Ani Shamatava,FAO,ani.shamatava@fao.org,Ani SHAMATAVA,FAO,True
+AFR,Ghana,OMT CHAIR,mistry@unfpa.org,Ritesh Mistry,UNFPA,andrew.sentumbwe@fao.org,Andrew SENTUMBWE,FAO,False
+AFR,Ghana,OMT CHAIR,mistry@unfpa.org,Ritesh Mistry,UNFPA,dshokry@iom.int,David SHOKRY,IOM,False
+LAC,Guatemala,OMT CHAIR,jessicar@unops.org,Jessica Rosal,UNOPS,jessicar@unops.org,Jessica ROSAL,UNOPS,True
+AFR,Guinea,OMT CHAIR,,Manengu Casimir tshikolasoni,,kipelam@who.int,Jean Marie KIPELA,WHO,False
+AFR,Guinea,OMT CHAIR,,Manengu Casimir tshikolasoni,,mbikinan@who.int,NADINE CHRISTELLE ANDREE MBIKINA,WHO,False
+AFR,Guinea,OMT CHAIR,mbikinan@who.int,Nadine christelle andree Mbikina,WHO,kipelam@who.int,Jean Marie KIPELA,WHO,False
+AFR,Guinea,OMT CHAIR,mbikinan@who.int,Nadine christelle andree Mbikina,WHO,mbikinan@who.int,NADINE CHRISTELLE ANDREE MBIKINA,WHO,True
+AFR,Guinea-Bissau,OMT CHAIR,jmabea@unicef.org,Jacques Mabea,UNICEF,eekole@unicef.org,Etona EKOLE,UNICEF,False
+AFR,Guinea-Bissau,OMT CHAIR,jmabea@unicef.org,Jacques Mabea,UNICEF,jmabea@unicef.org,Jacques MABEA,UNICEF,True
+AFR,Guinea-Bissau,OMT CHAIR,joao.manja@wfp.org,Joao  Manja,WFP,eekole@unicef.org,Etona EKOLE,UNICEF,False
+AFR,Guinea-Bissau,OMT CHAIR,joao.manja@wfp.org,Joao  Manja,WFP,jmabea@unicef.org,Jacques MABEA,UNICEF,False
+LAC,Guyana,OMT CHAIR,jduport@unicef.org,Jason  Duport ,UNICEF,jduport@unicef.org,Jason  DUPORT,UNICEF,True
+LAC,Guyana,OMT CHAIR,jduport@unicef.org,Jason  Duport ,UNICEF,jduport@unicef.org,Jason  DUPORT,UNICEF,True
+LAC,Haiti,OMT CHAIR,milka.verastegui@wfp.org,Milka Verastegui,WFP,fernando.carrillo@wfp.org,Fernando CARRILLO,WFP,False
+LAC,Haiti,OMT CHAIR,milka.verastegui@wfp.org,Milka Verastegui,WFP,milka.verastegui@wfp.org,Milka VERASTEGUI,WFP,True
+LAC,Haiti,OMT CHAIR,akoko.lawson@un.org,Victoire Lawson,UNS – RCOs,fernando.carrillo@wfp.org,Fernando CARRILLO,WFP,False
+LAC,Haiti,OMT CHAIR,akoko.lawson@un.org,Victoire Lawson,UNS – RCOs,milka.verastegui@wfp.org,Milka VERASTEGUI,WFP,False
+LAC,Honduras,OMT CHAIR,waleskab@unops.org,Waleska Bustillo,UNOPS,rosibel.ramirez@wfp.org,Rosibel RAMIREZ,WFP,False
+LAC,Honduras,OMT CHAIR,waleskab@unops.org,Waleska Bustillo,UNOPS,stephanie.hochstetter@wfp.org,Stephanie HOCHSTETTER,WFP,False
+APA,India,OMT CHAIR,ahammad.kabeer@undp.org,Ahammad Kabeer,UN,lkataw@unicef.org,Lana KATAW,UNICEF,False
+APA,Iran,OMT CHAIR,mngandu@unicef.org,Mable Ng'andu,UNICEF,mngandu@unicef.org,Mable NG'ANDU,UNICEF,True
+AS,Iraq,OMT CHAIR,elliman.jagne@undp.org,Elliman Jagne,UNDP,elliman.jagne@undp.org,Elliman JAGNE,UNDP,True
+APA,Indonesia,OMT CHAIR,jamshed.kazi@unwomen.org,Jamshed Kazi,UN WOMEN,rajendra.aryal@fao.org,Ranjendra ARYAL,FAO,False
+APA,Indonesia,OMT CHAIR,jamshed.kazi@unwomen.org,Jamshed Kazi,UN WOMEN,jamshed.kazi@unwomen.org,Jamshed KAZI,UN WOMEN,True
+LAC,Jamaica,OMT CHAIR,ldawkins@unicef.org,Lila Dawkins,UNICEF,ldawkins@unicef.org,Lila DAWKINS,UNICEF,True
+LAC,Jamaica,OMT CHAIR,pinderc@un.org,Clementiene Pinder,UNS - UNEP,ldawkins@unicef.org,Lila DAWKINS,UNICEF,False
+AS,Jordan,OMT CHAIR,leslyar.masri@fao.org,Leslyar Masri,,nabil.assaf@fao.org,Nabil  ASSAF,FAO,False
+AS,Jordan,OMT CHAIR,leslyar.masri@fao.org,Leslyar Masri,,randa.aboul-hosn@undp.org,Randa  ABOUL-HOSN,UNDP,False
+AS,Jordan,OMT CHAIR,hiba.sabanekh@undp.org,Hiba Sabanekh,UNDP,nabil.assaf@fao.org,Nabil  ASSAF,FAO,False
+AS,Jordan,OMT CHAIR,hiba.sabanekh@undp.org,Hiba Sabanekh,UNDP,randa.aboul-hosn@undp.org,Randa  ABOUL-HOSN,UNDP,False
+ECA,Kazakhstan,OMT CHAIR,akhmetov@unhcr.org,Gulnara Akhmetova,UNHCR,akhmetov@unhcr.org,Gulnara AKHMETOVA,UNHCR,True
+ECA,Kazakhstan,OMT CHAIR,soyongua.ganchimeg@undp.org,Soyongua Ganchimeg,UNDP,akhmetov@unhcr.org,Gulnara AKHMETOVA,UNHCR,False
+ECA,Kazakhstan,OMT CHAIR,dana.amanova@undp.org,Dana Amanova,UNDP,akhmetov@unhcr.org,Gulnara AKHMETOVA,UNHCR,False
+AFR,Kenya,OMT CHAIR,bmeyer@unicef.org,Benjamin Meyer,UNICEF,taye.amssalu@undp.org,Taye  AMSSALU,UNDP,False
+AFR,Kenya,OMT CHAIR,bmeyer@unicef.org,Benjamin Meyer,UNICEF,amotcho@unicef.org,Anselme Cobna  MOTCHO,UNICEF,False
+AFR,Kenya,OMT CHAIR,lars.tushuizen@undp.org,Lars Tushuizen,UNDP,taye.amssalu@undp.org,Taye  AMSSALU,UNDP,False
+AFR,Kenya,OMT CHAIR,lars.tushuizen@undp.org,Lars Tushuizen,UNDP,amotcho@unicef.org,Anselme Cobna  MOTCHO,UNICEF,False
+ECA,Kosovo,OMT CHAIR,yllka.pllana@un.org,Yllka Pllana,UN,niels.knudsen@undp.org,Niels KNUDSEN,UNDP,False
+ECA,Kosovo,OMT CHAIR,yllka.pllana@un.org,Yllka Pllana,UN,schneider4@un.org,Cornelia SCHNEIDER,UNS – RCOs,False
+ECA,Kosovo,OMT CHAIR,yllka.pllana@un.org,Yllka Pllana,UN,niels.knudsen@undp.org,Niels KNUDSEN,UNDP,False
+ECA,Kosovo,OMT CHAIR,yllka.pllana@un.org,Yllka Pllana,UN,schneider4@un.org,Cornelia SCHNEIDER,UNS – RCOs,False
+APA,"Korea, Democratic People's Republic of",OMT CHAIR,Lsierra@unfpa.org, ,,tiong@unfpa.org,Mary Rose TIONG,UNFPA,False
+APA,"Korea, Democratic People's Republic of",OMT CHAIR,Lsierra@unfpa.org, ,,iketut.sumantra@wfp.org,Iketut SUMANTRA,WFP,False
+AS,Kuwait,OMT CHAIR,sherif.el.tokali@undp.org ,Sherif El tokali,UNDP,khaled.shahwan@undp.org,Khaled SHAHWAN,UNDP,False
+ECA,Kyrgyzstan,OMT CHAIR,ulziisuren.jamsran@unwomen.org,Ulziisuren Jamsran,UN WOMEN,aijan.isamadyrova@unwomen.org,Aijan ISAMADYROVA,UN WOMEN,False
+ECA,Kyrgyzstan,OMT CHAIR,ulziisuren.jamsran@unwomen.org,Ulziisuren Jamsran,UN WOMEN,ulziisuren.jamsran@unwomen.org,Ulziisuren JAMSRAN,UN WOMEN,True
+APA,Lao PDR,OMT CHAIR,bakhtior@unfpa.org, ,UNFPA,kiettisack.senephansiri@undp.org,Kiettisack SENEPHANSIRI,UNDP,False
+APA,Lao PDR,OMT CHAIR,bakhtior@unfpa.org, ,UNFPA,lasasimma@unfpa.org,Vilaykham LASASIMMA,UNFPA,False
+AS,Lebanon,OMT CHAIR,sune.kent@wfp.org,Sune Kent,WFP,sune.kent@wfp.org,Sune KENT,WFP,True
+AFR,Lesotho,OMT CHAIR,mrantso@unicef.org,Makatleho Rantso,UNICEF,dbhaskaran@unicef.org,Deepak  BHASKARAN,UNICEF,False
+AFR,Lesotho,OMT CHAIR,mrantso@unicef.org,Makatleho Rantso,UNICEF,mrantso@unicef.org,Makatleho RANTSO,UNICEF,True
+AFR,Liberia,OMT CHAIR,mfofana@unicef.org,Mamadee Fofana,UNICEF,thelma.dahndebrah@fao.org,Thelma DAHN DEBRAH,FAO,False
+AFR,Liberia,OMT CHAIR,mfofana@unicef.org,Mamadee Fofana,UNICEF,thabani.mabodoko@undp.org,Thabani MABODOKO,UNDP,False
+AFR,Liberia,OMT CHAIR,thabani.mabodoko@undp.org,Thabani Mabodoko,UNDP,thelma.dahndebrah@fao.org,Thelma DAHN DEBRAH,FAO,False
+AFR,Liberia,OMT CHAIR,thabani.mabodoko@undp.org,Thabani Mabodoko,UNDP,thabani.mabodoko@undp.org,Thabani MABODOKO,UNDP,True
+AFR,Libya,OMT CHAIR,maaroufm@unhcr.org,Mohamad Maarouf,UNHCR,ahmedder@unhcr.org,Abdilkadir Ahmed DERIE,UNHCR,False
+AFR,Libya,OMT CHAIR,aster.ogbaslasie@undp.org,Aster Ogbaslasie,UNDP,ahmedder@unhcr.org,Abdilkadir Ahmed DERIE,UNHCR,False
+AFR,Madagascar,OMT CHAIR,jean-michel.bikoro@wfp.org,Jean- michel Bikoro,WFP,natasha.van-rijn@undp.org,Natasha VAN RIJN,UNDP,False
+AFR,Madagascar,OMT CHAIR,jean-michel.bikoro@wfp.org,Jean- michel Bikoro,WFP,joyce.byaruhanga@wfp.org,Joyce BYARUHANGA,WFP,False
+AFR,Madagascar,OMT CHAIR,natasha.van-rijn@undp.org,Natasha Van rijn,UNDP,natasha.van-rijn@undp.org,Natasha VAN RIJN,UNDP,True
+AFR,Madagascar,OMT CHAIR,natasha.van-rijn@undp.org,Natasha Van rijn,UNDP,joyce.byaruhanga@wfp.org,Joyce BYARUHANGA,WFP,False
+AFR,Malawi,OMT CHAIR,nomancube@iom.int,Noma  Ncube,IOM,shigeki.komatsubara@undp.org,Shigeki KOMATSUBARA,UNDP,False
+AFR,Malawi,OMT CHAIR,nomancube@iom.int,Noma  Ncube,IOM,abuzoku@unicef.org,Ardiana BUZOKU,UNICEF,False
+AFR,Malawi,OMT CHAIR,rugare.mukanganise@undp.org,Rugare  Mukanganise,UNDP,shigeki.komatsubara@undp.org,Shigeki KOMATSUBARA,UNDP,False
+AFR,Malawi,OMT CHAIR,rugare.mukanganise@undp.org,Rugare  Mukanganise,UNDP,abuzoku@unicef.org,Ardiana BUZOKU,UNICEF,False
+APA,Malaysia,OMT CHAIR,edonoso@unicef.org,Edgar Donoso,UNICEF,patrick.pee@undp.org,Patrick PEE,UNDP,False
+APA,Malaysia,OMT CHAIR,edonoso@unicef.org,Edgar Donoso,UNICEF,edonoso@unicef.org,Edgar DONOSO,UNICEF,True
+APA,Maldives,OMT CHAIR,asmohamed@unicef.org,Aslam Mohamed,UNICEF,jaleela@who.int,Aminath JALEEL,WHO,False
+APA,Maldives,OMT CHAIR,asmohamed@unicef.org,Aslam Mohamed,UNICEF,prakasho@who.int,Om PRAKASH,WHO,False
+AFR,Mali,OMT CHAIR,menze@unhcr.org,Georges patrick  Menze ,UNHCR,mansour.ndiaye@fao.org,Mamadou Mansour N'DIAYE,FAO,False
+AFR,Mali,OMT CHAIR,menze@unhcr.org,Georges patrick  Menze ,UNHCR,mansour.ndiaye@fao.org,Mohamadou Mansour  N'DIAYE,FAO,False
+AFR,Mauritania,OMT CHAIR,mansour.ndiaye@undp.org,Mansour Ndiaye,UNDP,mansour.ndiaye@undp.org,Mansour NDIAYE,UNDP,True
+AFR,Mauritania,OMT CHAIR,mansour.ndiaye@undp.org,Mansour Ndiaye,UNDP,alcisse@unicef.org,Alpha Ibrahima  CISSE,UNICEF,False
+AFR,Mauritius,OMT CHAIR,anciaa@who.int,Anne Ancia,WHO,fatuma.musa@undp.org,Fatuma MUSA,UNDP,False
+AFR,Mauritius,OMT CHAIR,anciaa@who.int,Anne Ancia,WHO,anciaa@who.int,Anne ANCIA,WHO,True
+LAC,Mexico,OMT CHAIR,anmejia@unicef.org,Andres Mejia,UNICEF,fcarrera@unicef.org,Fernando  CARRERA,UNICEF,False
+LAC,Mexico,OMT CHAIR,anmejia@unicef.org,Andres Mejia,UNICEF,giuseppem@unops.org,Giuseppe MANCINELLI,UNOPS,False
+LAC,Mexico,OMT CHAIR,paolab@unops.org,Paola Bidondo,UNOPS,fcarrera@unicef.org,Fernando  CARRERA,UNICEF,False
+LAC,Mexico,OMT CHAIR,paolab@unops.org,Paola Bidondo,UNOPS,giuseppem@unops.org,Giuseppe MANCINELLI,UNOPS,False
+LAC,Mexico,OMT CHAIR,delao@unfpa.org,Marcela De la o,UNFPA,fcarrera@unicef.org,Fernando  CARRERA,UNICEF,False
+LAC,Mexico,OMT CHAIR,delao@unfpa.org,Marcela De la o,UNFPA,giuseppem@unops.org,Giuseppe MANCINELLI,UNOPS,False
+APA,Micronesia,OMT CHAIR,eavila@iom.int,Earna Avila,IOM,,,,False
+ECA,Moldova,OMT CHAIR,tribac@unicef.org,Tatiana Ribac,UNICEF,tribac@unicef.org,Tatiana RIBAC,UNICEF,True
+ECA,Moldova,OMT CHAIR,sophy.janowski@wfp.org,Sophy Janowski,WFP,tribac@unicef.org,Tatiana RIBAC,UNICEF,False
+APA,Mongolia,OMT CHAIR,carlos.escriva.gil@undp.org,Carlos Escriva gil,UNDP,carlos.escriva.gil@undp.org,Carlos ESCRIVA GIL,UNDP,True
+ECA,Montenegro,OMT CHAIR,kbuskovic@unicef.org,Kosa  Buskovic,UNICEF,snezana.doljanica@undp.org,Snezana DOLJANICA,UNDP,False
+ECA,Montenegro,OMT CHAIR,kbuskovic@unicef.org,Kosa  Buskovic,UNICEF,kbuskovic@unicef.org,Kosa  BUSKOVIC,UNICEF,True
+ECA,Montenegro,OMT CHAIR,snezana.doljanica@undp.org,Snezana Doljanica,UNDP,snezana.doljanica@undp.org,Snezana DOLJANICA,UNDP,True
+ECA,Montenegro,OMT CHAIR,snezana.doljanica@undp.org,Snezana Doljanica,UNDP,kbuskovic@unicef.org,Kosa  BUSKOVIC,UNICEF,False
+AFR,Morocco,OMT CHAIR,leila.rhiwi@unwomen.org,Leila  Rhiwi,UN WOMEN,leila.rhiwi@unwomen.org,Leila RHIWI,UN WOMEN,True
+AFR,Morocco,OMT CHAIR,mohamed.cheddad@undp.org,Mohamed Cheddad,UNDP,leila.rhiwi@unwomen.org,Leila RHIWI,UN WOMEN,False
+AFR,Mozambique,OMT CHAIR,anna.chyzhkova@undp.org,Anna Chyzhkova,UNDP,ltommbonde@iom.int,Laura TOMM-BONDE,IOM,False
+AFR,Mozambique,OMT CHAIR,anna.chyzhkova@undp.org,Anna Chyzhkova,UNDP,anna.chyzhkova@undp.org,Anna CHYZHKOVA,UNDP,True
+AFR,Mozambique,OMT CHAIR,ltommbonde@iom.int,Laura Tomm-bonde,IOM,ltommbonde@iom.int,Laura TOMM-BONDE,IOM,True
+AFR,Mozambique,OMT CHAIR,ltommbonde@iom.int,Laura Tomm-bonde,IOM,anna.chyzhkova@undp.org,Anna CHYZHKOVA,UNDP,False
+APA,Myanmar,OMT CHAIR,stephen.anderson@wfp.org,Stephen  Anderson ,WFP,stephen.anderson@wfp.org,Stephen  ANDERSON,WFP,True
+AFR,Namibia,OMT CHAIR,christian.shingiro@undp.org,Christian Shingiro,UNDP,anne.madzara@undp.org,Annie MADZARA,UNDP,False
+AFR,Namibia,OMT CHAIR,christian.shingiro@undp.org,Christian Shingiro,UNDP,toivo.shikongo@undp.org,TOIVO SHIKONGO,UNDP,False
+AFR,Namibia,OMT CHAIR,toivo.shikongo@undp.org,Toivo Shikongo,UNDP,anne.madzara@undp.org,Annie MADZARA,UNDP,False
+AFR,Namibia,OMT CHAIR,toivo.shikongo@undp.org,Toivo Shikongo,UNDP,toivo.shikongo@undp.org,TOIVO SHIKONGO,UNDP,True
+APA,Nepal,OMT CHAIR,maidiallo@unicef.org,Maimouna Diallo,UNICEF,bernardo.cocco@undp.org,Bernardo COCCO,UNDP,False
+APA,Nepal,OMT CHAIR,maidiallo@unicef.org,Maimouna Diallo,UNICEF,maidiallo@unicef.org,Maimouna DIALLO,UNICEF,True
+LAC,Nicaragua,OMT CHAIR,rogerp@unops.org,Roger Perez,UNOPS,apina@unicef.org,Antero PINA,UNICEF,False
+LAC,Nicaragua,OMT CHAIR,rogerp@unops.org,Roger Perez,UNOPS,rogerp@unops.org,Roger PEREZ,UNOPS,True
+AFR,Nigeria,OMT CHAIR,phala@ilo.org,Vanessa Phala,ILO,fati.attahiru@undp.org,Fati ATTAHIRU,UNDP,False
+AFR,Nigeria,OMT CHAIR,fati.attahiru@undp.org,Fati Attahiru,UNDP,fati.attahiru@undp.org,Fati ATTAHIRU,UNDP,True
+AFR,Niger,OMT CHAIR,jane.o.yeboah@undp.org,Jane Yeboah,UNDP,eloi.kouadio.iv@undp.org,Eloi  KOUADIO-IV,UNDP,False
+AFR,Niger,OMT CHAIR,jane.o.yeboah@undp.org,Jane Yeboah,UNDP,racky.fall@wfp.org,Racky FALL,WFP,False
+AFR,Niger,OMT CHAIR,racky.fall@wfp.org,Racky Fall,WFP,eloi.kouadio.iv@undp.org,Eloi  KOUADIO-IV,UNDP,False
+AFR,Niger,OMT CHAIR,racky.fall@wfp.org,Racky Fall,WFP,racky.fall@wfp.org,Racky FALL,WFP,True
+ECA,North Macedonia,OMT CHAIR,andrea.pankovska@unwomen.org,Andrea Pankovska veninova,UN WOMEN,andrea.pankovska@unwomen.org,Andrea PANKOVSKA VENINOVA,UN WOMEN,True
+ECA,North Macedonia,OMT CHAIR,andrea.pankovska@unwomen.org,Andrea Pankovska veninova,UN WOMEN,boban.mitrovski@unwomen.org,Boban MITROVSKI,UN WOMEN,False
+ECA,North Macedonia,OMT CHAIR,boban.mitrovski@unwomen.org,Boban Mitrovski,UN WOMEN,andrea.pankovska@unwomen.org,Andrea PANKOVSKA VENINOVA,UN WOMEN,False
+ECA,North Macedonia,OMT CHAIR,boban.mitrovski@unwomen.org,Boban Mitrovski,UN WOMEN,boban.mitrovski@unwomen.org,Boban MITROVSKI,UN WOMEN,True
+AS,Palestine,OMT CHAIR,abdulkerim.al-khafaji@undp.org,Kerim Al-khafaji,UNDP,chitose.noguchi@undp.org,Chitose NOGUCHI,UNDP,False
+LAC,Panama,OMT CHAIR,mmendieta@unicef.org,Milantia Mendieta,UNICEF,mmendieta@unicef.org,Milantia MENDIETA,UNICEF,True
+APA,Papua New Guinea,OMT CHAIR,huseynovas@who.int, ,,damar.ghimire@unwomen.org,Damar Prasad GHIMIRE,UN WOMEN,False
+APA,Papua New Guinea,OMT CHAIR,huseynovas@who.int, ,,milka.okiddy@undp.org,Milka OKIDDY,UNDP,False
+APA,Papua New Guinea,OMT CHAIR,damar.ghimire@unwomen.org, ,,damar.ghimire@unwomen.org,Damar Prasad GHIMIRE,UN WOMEN,True
+APA,Papua New Guinea,OMT CHAIR,damar.ghimire@unwomen.org, ,,milka.okiddy@undp.org,Milka OKIDDY,UNDP,False
+APA,Pakistan,OMT CHAIR,jeremy.milsom@un.org,Jeremy Milsom,UNS - UNODC,jeremy.milsom@un.org,Jeremy MILSOM,UNS - UNODC,True
+LAC,Paraguay,OMT CHAIR,carlos.penayo@undp.org,Carlos Penayo,UNDP,fernando.adames@undp.org,FERNANDO ADAMES,UNDP,False
+LAC,Paraguay,OMT CHAIR,carlos.penayo@undp.org,Carlos Penayo,UNDP,rosmary.zanotti@undp.org,Rosmary ZANOTTI,UNDP,False
+LAC,Paraguay,OMT CHAIR,rosmary.zanotti@undp.org,Rosmary Zanotti,UNDP,fernando.adames@undp.org,FERNANDO ADAMES,UNDP,False
+LAC,Paraguay,OMT CHAIR,rosmary.zanotti@undp.org,Rosmary Zanotti,UNDP,rosmary.zanotti@undp.org,Rosmary ZANOTTI,UNDP,True
+APA,Philippines,OMT CHAIR,tmeyerer@unicef.org,Thomas Meyerer,UNICEF,arambulo@unfpa.org,King Arthur ARAMBULO,UNFPA,False
+APA,Philippines,OMT CHAIR,tmeyerer@unicef.org,Thomas Meyerer,UNICEF,tmeyerer@unicef.org,Thomas MEYERER,UNICEF,True
+APA,Philippines,OMT CHAIR,arambulo@unfpa.org,King arthur Arambulo,UNFPA,arambulo@unfpa.org,King Arthur ARAMBULO,UNFPA,True
+APA,Philippines,OMT CHAIR,arambulo@unfpa.org,King arthur Arambulo,UNFPA,tmeyerer@unicef.org,Thomas MEYERER,UNICEF,False
+LAC,Peru,OMT CHAIR,patricia.pazos@wfp.org,Patricia Pazos,WFP,ricardo.vidalon@undp.org,Ricardo VIDALON,UNDP,False
+LAC,Peru,OMT CHAIR,patricia.pazos@wfp.org,Patricia Pazos,WFP,ecuevas@unicef.org,Esteban CUEVAS,UNICEF,False
+AFR,Rwanda,OMT CHAIR,abdirisak.ibrahim@wfp.org,Abdirisak  Ibrahim,WFP,shelagh.rwitare@undp.org,Shelagh RWITARE,UNDP,False
+APA,Samoa,OMT CHAIR,niraj.shrestha@undp.org,Niraj Shrestha,UNDP,niraj.shrestha@undp.org,Niraj SHRESTHA,UNDP,True
+AFR,Sao Tome and Principe,OMT CHAIR,kasia.wawiernia@undp.org,Katarzyna  Wawiernia,UNDP,antonia.daio@undp.org,Antonia DAIO,UNDP,False
+AFR,Sao Tome and Principe,OMT CHAIR,antonia.daio@undp.org,Antonia Daio,UNDP,antonia.daio@undp.org,Antonia DAIO,UNDP,True
+AFR,Senegal,OMT CHAIR,luc.gnonlonfoun@undp.org,Luc Gnonlonfoun,UNDP,luc.gnonlonfoun@undp.org,Luc GNONLONFOUN,UNDP,True
+AFR,Senegal,OMT CHAIR,luc.gnonlonfoun@undp.org,Luc Gnonlonfoun,UNDP,fatiha.terki@wfp.org,Fatiha TERKI,WFP,False
+AFR,Senegal,OMT CHAIR,fatiha.terki@wfp.org,Fatiha Terki,WFP,luc.gnonlonfoun@undp.org,Luc GNONLONFOUN,UNDP,False
+AFR,Senegal,OMT CHAIR,fatiha.terki@wfp.org,Fatiha Terki,WFP,fatiha.terki@wfp.org,Fatiha TERKI,WFP,True
+ECA,Serbia,OMT CHAIR,anas.qarman@undp.org,Anas  Qarman,UNDP,anas.qarman@undp.org,Anas  QARMAN,UNDP,True
+ECA,Serbia,OMT CHAIR,anas.qarman@undp.org,Anas  Qarman,UNDP,mgavric@unicef.org,Marko GAVRIC,UNICEF,False
+AFR,Sierra Leone,OMT CHAIR,pthorpe@unicef.org,Philippa Thorpe,UNICEF,wtengey@unicef.org,Wilberforce TENGEY,UNICEF,False
+AFR,Sierra Leone,OMT CHAIR,pthorpe@unicef.org,Philippa Thorpe,UNICEF,ayodeledavisk@who.int,Kofoworola AYODELE-DAVIS,WHO,False
+AFR,Sierra Leone,OMT CHAIR,ayodeledavisk@who.int,Kofoworola Ayodele-davis,WHO,wtengey@unicef.org,Wilberforce TENGEY,UNICEF,False
+AFR,Sierra Leone,OMT CHAIR,ayodeledavisk@who.int,Kofoworola Ayodele-davis,WHO,ayodeledavisk@who.int,Kofoworola AYODELE-DAVIS,WHO,True
+AFR,Somalia,OMT CHAIR,carlo.antonelli@fao.org,Carlo Antonelli,FAO,carlo.antonelli@fao.org,Carlo ANTONELLI,FAO,True
+AFR,Somalia,OMT CHAIR,carlo.antonelli@fao.org,Carlo Antonelli,FAO,dwomble@iom.int,David WOMBLE,IOM,False
+AFR,Somalia,OMT CHAIR,kiwanga@unhcr.org,Mkwanda Kiwanga,UNHCR,carlo.antonelli@fao.org,Carlo ANTONELLI,FAO,False
+AFR,Somalia,OMT CHAIR,kiwanga@unhcr.org,Mkwanda Kiwanga,UNHCR,dwomble@iom.int,David WOMBLE,IOM,False
+AFR,South Sudan,OMT CHAIR,makena.walker@wfp.org,Makena Walker,WFP,blessed.chirimuta@undp.org,Blessed CHIRIMUTA,UNDP,False
+AFR,South Sudan,OMT CHAIR,makena.walker@wfp.org,Makena Walker,WFP,makena.walker@wfp.org,Makena WALKER,WFP,True
+AFR,Sudan,OMT CHAIR,odenigbo@un.org,Uchenna Odenigbo,UN,ndyanaba@unhcr.org,Patience  NDYANABANGI,UNHCR,False
+AFR,Sudan,OMT CHAIR,odenigbo@un.org,Uchenna Odenigbo,UN,inge.breuer@wfp.org,INGE BREUER,WFP,False
+AFR,Sudan,OMT CHAIR,ndyanaba@unhcr.org,Patience Ndyanabangi,UNHCR,ndyanaba@unhcr.org,Patience  NDYANABANGI,UNHCR,True
+AFR,Sudan,OMT CHAIR,ndyanaba@unhcr.org,Patience Ndyanabangi,UNHCR,inge.breuer@wfp.org,INGE BREUER,WFP,False
+AS,Saudi Arabia,OMT CHAIR,Vacant, ,,najaia@who.int,Abeer AL-NAJAI,WHO,False
+LAC,Suriname,OMT CHAIR,None,None None,None,margaret.jones.williams@undp.org,Margaret JONES WILLIAMS,UNDP,False
+AFR,South Africa,OMT CHAIR,lsanya@iom.int,Lily Sanya,IOM,lsanya@iom.int,Lily SANYA,IOM,True
+APA,Sri Lanka,OMT CHAIR,Malin.Herwig@undp.org, ,,malin.herwig@undp.org,Malin HERWIG,UNDP,False
+AS,Syria,OMT CHAIR,nyaidho@unhcr.org,Pamella Nyaidho,UNHCR,nyaidho@unhcr.org,Pamella NYAIDHO,UNHCR,True
+AS,Syria,OMT CHAIR,nyaidho@unhcr.org,Pamella Nyaidho,UNHCR,r.trivedi@unrwa.org,Ram TRIVEDI,UNRWA,False
+ECA,Tajikistan,OMT CHAIR,schibada@unicef.org,Samson Chibada,UNICEF,schibada@unicef.org,Samson CHIBADA,UNICEF,True
+ECA,Tajikistan,OMT CHAIR,rkakharov@unicef.org,Rustam Kakharov,UNICEF,schibada@unicef.org,Samson CHIBADA,UNICEF,False
+AFR,Tanzania,OMT CHAIR,sarah.gordon-gibson@wfp.org,Sarah Gordon-gibson,WFP,shabnam.mallick@un.org,Shabnam MALLICK,UNS – RCOs,False
+AFR,Tanzania,OMT CHAIR,sarah.gordon-gibson@wfp.org,Sarah Gordon-gibson,WFP,sarah.gordon-gibson@wfp.org,Sarah GORDON-GIBSON,WFP,True
+APA,Thailand,OMT CHAIR,stephen.cooper@un.org,Stephen Cooper,UNS - UN Habitat,k.drollett@unesco.org,Kirimoke DROLLETT,UNESCO,False
+APA,Thailand,OMT CHAIR,stephen.cooper@un.org,Stephen Cooper,UNS - UN Habitat,stephen.cooper@un.org,Stephen COOPER,UNS – ESCAP,True
+APA,Thailand,OMT CHAIR,k.drollett@unesco.org,Kirimoke Drollett,UNESCO,k.drollett@unesco.org,Kirimoke DROLLETT,UNESCO,True
+APA,Thailand,OMT CHAIR,k.drollett@unesco.org,Kirimoke Drollett,UNESCO,stephen.cooper@un.org,Stephen COOPER,UNS – ESCAP,False
+APA,Timor-Leste,OMT CHAIR,ronald.kumar@undp.org,Ronald Kumar,UNDP,tasikpina@un.org,Lino PINA,UN,False
+APA,Timor-Leste,OMT CHAIR,ronald.kumar@undp.org,Ronald Kumar,UNDP,ronald.kumar@undp.org,Ronald KUMAR,UNDP,True
+APA,Timor-Leste,OMT CHAIR,yhcheah@unicef.org,Yew hee Cheah,UNICEF,tasikpina@un.org,Lino PINA,UN,False
+APA,Timor-Leste,OMT CHAIR,yhcheah@unicef.org,Yew hee Cheah,UNICEF,ronald.kumar@undp.org,Ronald KUMAR,UNDP,False
+AFR,Togo,OMT CHAIR,seynabou.diaw.ba@undp.org,Seynabou Diaw,UNDP,asidibe@unicef.org,Aissata  BA SIDIBE,UNICEF,False
+AFR,Togo,OMT CHAIR,asidibe@unicef.org,Aissata  Ba sidibe,UNICEF,asidibe@unicef.org,Aissata  BA SIDIBE,UNICEF,True
+LAC,Trinidad and Tobago,OMT CHAIR,jonesmorales@ilo.org,Jennifer Jones-morales,ILO,jonesmorales@ilo.org,JENNIFER JONES-MORALES,ILO,True
+LAC,Trinidad and Tobago,OMT CHAIR,jonesmorales@ilo.org,Jennifer Jones-morales,ILO,jonesmorales@ilo.org,JENNIFER JONES-MORALES,ILO,True
+AFR,Tunisia,OMT CHAIR,dluemba@unicef.org,Luvungu doudou Luemba,UNICEF,dluemba@unicef.org,Luvungu Doudou LUEMBA,UNICEF,True
+AFR,Tunisia,OMT CHAIR,dluemba@unicef.org,Luvungu doudou Luemba,UNICEF,mlepechoux@unicef.org,Michel LE PECHOUX,UNICEF,False
+AFR,Tunisia,OMT CHAIR,mlepechoux@unicef.org,Michel Le pechoux,UNICEF,dluemba@unicef.org,Luvungu Doudou LUEMBA,UNICEF,False
+AFR,Tunisia,OMT CHAIR,mlepechoux@unicef.org,Michel Le pechoux,UNICEF,mlepechoux@unicef.org,Michel LE PECHOUX,UNICEF,True
+ECA,Turkiye,OMT CHAIR,usame.yalcin@undp.org,Usame Yalcin,UNDP,,,,False
+ECA,Turkiye,OMT CHAIR,gwaite@iom.int,Gerard  Waite,IOM,,,,False
+ECA,Turkmenistan,OMT CHAIR,narine.sahakyan@undp.org,Narine Sahakyan,UNDP,narine.sahakyan@undp.org,Narine SAHAKYAN,UNDP,True
+AFR,Uganda,OMT CHAIR,antonio.querido@fao.org,Antonio Querido,FAO,antonio.querido@fao.org,Antonio QUERIDO,FAO,True
+AFR,Uganda,OMT CHAIR,antonio.querido@fao.org,Antonio Querido,FAO,elsie.attafuah@undp.org,Elsie ATTAFUAH,UNDP,False
+ECA,Ukraine,OMT CHAIR,henneick@unhcr.org,Susanne Henneicke,UNHCR,klytvynenko@unicef.org,Kateryna LYTVYNENKO,UNICEF,False
+ECA,Ukraine,OMT CHAIR,henneick@unhcr.org,Susanne Henneicke,UNHCR,tmeyerer@unicef.org,Thomas MEYERER,UNICEF,False
+AS,United Arab Emirates,OMT CHAIR,victoria.gappoeva@wfp.org,Victoria Gappoeva,WFP,mageed.yahia@wfp.org,Mageed YAHIA,WFP,False
+AS,United Arab Emirates,OMT CHAIR,victoria.gappoeva@wfp.org,Victoria Gappoeva,WFP,victoria.gappoeva@wfp.org,Victoria GAPPOEVA,WFP,True
+ECA,Uzbekistan,OMT CHAIR,None,None None,None,shavkat.muminov@undp.org,Shavkat MUMINOV,UNDP,False
+LAC,Uruguay,OMT CHAIR,jcalegari@unicef.org,Jose Calegari,UNICEF,jcalegari@unicef.org,JOSE CALEGARI,UNICEF,True
+LAC,Venezuela,OMT CHAIR,nelson.munoz@wfp.org,Nelson Munoz,WFP,nelson.munoz@wfp.org,NELSON MUNOZ,WFP,True
+LAC,Venezuela,OMT CHAIR,nelson.munoz@wfp.org,Nelson Munoz,WFP,nelson.munoz@wfp.org,NELSON MUNOZ,WFP,True
+APA,Viet Nam,OMT CHAIR,mipark@iom.int,Mihyung Park,IOM,mipark@iom.int,MiHyung PARK,IOM,True
+APA,Viet Nam,OMT CHAIR,mh.mizuno@undp.org,Maria helena mizuno Moreira,UN,mipark@iom.int,MiHyung PARK,IOM,False
+AS,Yemen,OMT CHAIR,mulugeta.abebe@undp.org,Mulugeta Abebe,UNDP,mulugeta.abebe@undp.org,Mulugeta ABEBE,UNDP,True
+AFR,Zimbabwe,OMT CHAIR,muia@unfpa.org,Esther Muia,UNFPA,christine.mendes@wfp.org,Christine MENDES,WFP,False
+AFR,Zimbabwe,OMT CHAIR,christine.mendes@wfp.org,Christine Mendes,WFP,christine.mendes@wfp.org,Christine MENDES,WFP,True
+APA,Indonesia,OMT CHAIR,vithanagea@who.int,Asela Vithanage,WHO,rajendra.aryal@fao.org,Ranjendra ARYAL,FAO,False
+APA,Indonesia,OMT CHAIR,vithanagea@who.int,Asela Vithanage,WHO,jamshed.kazi@unwomen.org,Jamshed KAZI,UN WOMEN,False
+APA,Nepal,OMT CHAIR,julien.chevillard@undp.org,Julien Chevillard,UNDP,bernardo.cocco@undp.org,Bernardo COCCO,UNDP,False
+APA,Nepal,OMT CHAIR,julien.chevillard@undp.org,Julien Chevillard,UNDP,maidiallo@unicef.org,Maimouna DIALLO,UNICEF,False
+AFR,Benin,OMT CHAIR,elhadjoumar.diallo@undp.org, ,UNDP,jose.wabo@undp.org,Jose WABO,UNDP,False
+AFR,Benin,OMT CHAIR,elhadjoumar.diallo@undp.org, ,UNDP,jkoularambaye@unicef.org,Josias KOULARAMBAYE,UNICEF,False
+AFR,Chad,OMT CHAIR,enrico.pausilli@wfp.org, ,WFP,locastro@unhcr.org,Laura LO CASTRO,UNHCR,False
+AFR,Ethiopia,OMT CHAIR,ogboro.uneca@un.org,Plgeorge Balarabe ogboro,UN,ogboro.uneca@un.org,George OGBORO,UN,True
+AFR,Ethiopia,OMT CHAIR,ogboro.uneca@un.org,Plgeorge Balarabe ogboro,UN,dang.thi.hien@undp.org,Hien  DANG,UNDP,False
+AFR,Ghana,OMT CHAIR,akariuki@unicef.org,Anne Kariuki,UNICEF,andrew.sentumbwe@fao.org,Andrew SENTUMBWE,FAO,False
+AFR,Ghana,OMT CHAIR,akariuki@unicef.org,Anne Kariuki,UNICEF,dshokry@iom.int,David SHOKRY,IOM,False
+AFR,Mali,OMT CHAIR,sassenrath@unfpa.org,Yves  Sassenrath,UNFPA,mansour.ndiaye@fao.org,Mamadou Mansour N'DIAYE,FAO,False
+AFR,Mali,OMT CHAIR,sassenrath@unfpa.org,Yves  Sassenrath,UNFPA,mansour.ndiaye@fao.org,Mohamadou Mansour  N'DIAYE,FAO,False
+AFR,South Sudan,OMT CHAIR,ikamil@unicef.org,Ismail Kamil,UNICEF,blessed.chirimuta@undp.org,Blessed CHIRIMUTA,UNDP,False
+AFR,South Sudan,OMT CHAIR,ikamil@unicef.org,Ismail Kamil,UNICEF,makena.walker@wfp.org,Makena WALKER,WFP,False
+AFR,Uganda,OMT CHAIR,elsie.attafuah@undp.org,Elsie Attafuah,UNDP,antonio.querido@fao.org,Antonio QUERIDO,FAO,False
+AFR,Uganda,OMT CHAIR,elsie.attafuah@undp.org,Elsie Attafuah,UNDP,elsie.attafuah@undp.org,Elsie ATTAFUAH,UNDP,True
+AFR,Zambia,OMT CHAIR,BarihutaT@unaids.org,Tharcisse Barihuta,UNAIDS,barihutat@unaids.org,Tharcisse BARIHUTA,UNAIDS,False
+AFR,Zambia,OMT CHAIR,BarihutaT@unaids.org,Tharcisse Barihuta,UNAIDS,roland.seri@undp.org,Roland  SERI,UNDP,False
+AFR,Zambia,OMT CHAIR,aline.kayihura@undp.org,Aline Kayihura,UNDP,barihutat@unaids.org,Tharcisse BARIHUTA,UNAIDS,False
+AFR,Zambia,OMT CHAIR,aline.kayihura@undp.org,Aline Kayihura,UNDP,roland.seri@undp.org,Roland  SERI,UNDP,False
+AS,Iraq,OMT CHAIR,wamalwa@un.org,Cletus Wamalwa unami,,elliman.jagne@undp.org,Elliman JAGNE,UNDP,False
